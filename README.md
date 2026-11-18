@@ -1,8 +1,8 @@
 # Assignment 3: Inventory and Data Management System
 
 **Course:** Web Dev III <br>
-**Name:** Aryan Kumar <br>
-**Roll No:** 2501730431 <br>
+**Name:** UTKARSH CHAUBEY <br>
+**Roll No:** 2501730482 <br>
 **Date:** 17-11-2026
 
 ## About
